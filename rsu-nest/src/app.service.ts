@@ -11,3 +11,4 @@ export class AppService {
     return `Data processed: ${JSON.stringify(data)}`;
   }
 }
+jsjsjsjs me gusta yampi()
