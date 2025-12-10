@@ -5,7 +5,7 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
-
+x
   processData(data: any): string {
     // Lógica para procesar los datos recibidos
     return `Data processed: ${JSON.stringify(data)}`;
