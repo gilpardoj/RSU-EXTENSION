@@ -4,8 +4,6 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { UsuariosModule } from './veterinaria/usuarios/usuarios.module';
-import { ConfigModule } from '@nestjs/config';
-import { TypeOrmModule } from '@nestjs/typeorm';
 import { RolesModule } from './veterinaria/roles/roles.module';
 
 //se debe poner el mudulo princiapl de la app
